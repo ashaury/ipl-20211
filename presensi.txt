@@ -4,5 +4,6 @@ Lakukan langkah-langkah berikut:
 3. Buatlah Branch baru.
 4. Tambahkan Pada file berikut, NIM - Nama dan Kelas Anda.
 5. Commit kemudian Push.
-6. Click the Compare & pull request button.
 7. Click Create pull request to open a new pull request.
+
+3411191050 Hana Nazla Humaira DSE-B
