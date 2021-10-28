@@ -8,3 +8,4 @@ Lakukan langkah-langkah berikut:
 7. Click Create pull request to open a new pull request.
 -----------------------------------------------------------------
 3411199999 Herdi Ashaury DSE-B
+3411191150 Muhammad Adi Fakhri DSE-C
